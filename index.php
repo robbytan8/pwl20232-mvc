@@ -1,12 +1,12 @@
 <?php
-include_once 'controller\CitizenController.php';
-include_once 'controller\FamilyCardController.php';
-include_once 'controller\HomeController.php';
-include_once 'dao\CitizenDao.php';
-include_once 'dao\FamilyCardDao.php';
-include_once 'dao\PDOUtil.php';
-include_once 'entity\FamilyCard.php';
-include_once 'entity\Citizen.php';
+include_once 'controller/CitizenController.php';
+include_once 'controller/FamilyCardController.php';
+include_once 'controller/HomeController.php';
+include_once 'dao/CitizenDao.php';
+include_once 'dao/FamilyCardDao.php';
+include_once 'dao/PDOUtil.php';
+include_once 'entity/FamilyCard.php';
+include_once 'entity/Citizen.php';
 ob_start();
 ?>
 
